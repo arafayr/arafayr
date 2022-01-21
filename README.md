@@ -39,4 +39,4 @@ You can click the Preview link to take a look at your changes.
 
 
 <br/><br/>
-<a href=https://github.com/cocomo29><img src="https://img.shields.io/badge/-Follow%20me-blue" alt="github.com/arafayr">
+<a href=https://github.com/arafay><img src="https://img.shields.io/badge/-Follow%20me-blue" alt="github.com/arafayr">
