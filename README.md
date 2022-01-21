@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
   <br/>
     <img src="https://github-readme-stats.vercel.app/api?username=arafayr&theme=chartreuse-dark">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafayr&theme=chartreuse-dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafayr&theme=chartreuse-dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafayr&theme=chartreuse-dark">
   Note:</b> Top languages are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
