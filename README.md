@@ -1,8 +1,8 @@
 <p align="center" > 
-    <a href="" target="_blank"> <img height="290px"src="https://i.pinimg.com/originals/2b/b4/47/2bb447c6f6b5a3f133aeee9d4d1c2b3f.gif"/> </a>
+    <a href="" target="_blank"> <img height="60%"src="https://viban.ir/images/programmer.gif" width="60%"> </a>
 <p/>
 <p/>
-<h1 align = 'center> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=29px"></h1>
+<h1 align = "center"> <img height="15%"src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=17px"></h1>
 <h1 align="center">Hi I'm Rafay</h1>
 <h4 align="center">I am a BSCS student from UITU</h4>
 
