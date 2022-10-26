@@ -2,8 +2,8 @@
     <a href="" target="_blank"> <img height="290px"src="https://i.pinimg.com/originals/2b/b4/47/2bb447c6f6b5a3f133aeee9d4d1c2b3f.gif"/> </a>
 <p/>
 <p/>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=29px"> I'm Rafay</h1>
+<h1 align = 'center> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=29px"></h1>
+<h1 align="center">Hi I'm Rafay</h1>
 <h4 align="center">I am a BSCS student from UITU</h4>
 
 ##  🙋‍♂️About me
