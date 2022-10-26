@@ -22,9 +22,9 @@ You can click the Preview link to take a look at your changes.
 ##  💻My setup
 <p align="center"> 
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </a>
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/Intel-Core_i5_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> </a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/AMD-Ryzen 5_2600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> </a>
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/AMD-Radeon_RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> </a> 
-    <a href="" target="_blank"> <img src="https://camo.githubusercontent.com/55d09c07d331f85c42d9a292ec961b29899afd55151702f6d2d1a4dd30a8b107/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52414d2d3847422d2532333030373143352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465"/> </a> 
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/RAM-16 GB-ED1C24?style=for-the-badge&logo=&logoColor=white"/> </a>  </a> 
     
 </p>
   
