@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 ##  💻My setup
 <p align="center"> 
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </a> 
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/AMD-Ryzen 5_2600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> </a>
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/AMD-Radeon_RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> </a> 
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/RAM-16 GB-ED1C24?style=for-the-badge&logo=&logoColor=white"/> </a>  </a> 
@@ -31,9 +31,11 @@ You can click the Preview link to take a look at your changes.
   ## 📊 My Github Stats
 
   <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=arafayr&theme=chartreuse-dark">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafayr&theme=chartreuse-dark">
+ <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=arafayr&theme=chartreuse-dark"><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafayr&theme=chartreuse-dark"><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafayr&theme=chartreuse-dark">
+ </p>
   Note:</b> Top languages are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
