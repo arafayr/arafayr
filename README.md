@@ -11,7 +11,7 @@
 
 - 👨‍💻 I’m passionate about **Data Science, AI**, and **Software Development**.
 - 🎓 I served as a **Machine Learning Core Team Lead in Google Developer Student Club** during my university years.
-- 📍 My professional experience includes working as a **Junior Developer**, developing maps and improving data integrations and quality.
+- 🧑‍💼 My professional experience includes working as a **Junior Developer**, developing maps and improving data integrations and quality.
 - 🏆 Have a look at my skills and certifications
   
 ## 💡 Skills & Certifications
