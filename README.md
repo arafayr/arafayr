@@ -26,8 +26,8 @@
   - Supervised Learning with scikit-learn.
   - Data Manipulation with pandas.
   - Introduction to Statistics in Python.
- = **Simplilearn**
-    - Intro to PowerBI
+- **Simplilearn**
+  - Intro to PowerBI
 - **Udemy**:
   - Complete Data Science and Machine Learning.
 - **E-hunar**:
